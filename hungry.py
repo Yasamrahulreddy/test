@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 10 11:46:48 2021
-
-@author: yasam
-"""
-print("hello  world")
+hungry=input("are you hungry?")
+if hungry=="yes":
+    print("eat something")
+else:
+    print("do your homework")
 
